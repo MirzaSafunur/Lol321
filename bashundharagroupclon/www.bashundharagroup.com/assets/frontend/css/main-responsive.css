@@ -1,0 +1,215 @@
+/* ---------------------------------------------------------------------- */
+/*	From Medium Devices Up To Larger Devices
+ /* ---------------------------------------------------------------------- */
+@media (min-width: 992px) {
+
+
+
+}
+
+/* ---------------------------------------------------------------------- */
+/*	From Small Devices Up To Medium Devices
+ /* ---------------------------------------------------------------------- */
+@media (min-width: 768px) and (max-width: 991px) {
+	.show-in-mobile {
+		display: block !important;
+	}
+	.hide-in-mobile {
+		display: none !important;
+	}	
+	.image-frame img {
+		border: 1rem solid #666;
+		padding: 0.5rem;
+	}
+	.figure-caption {
+		font-size: 80%;
+	}
+	
+	/** banner */
+	#banner {
+		margin-top: 0;
+	}
+	
+	/** menu */
+	.cid-topmenu .nav-item .submenu .dropdown-menu li a {
+		padding: 0 !important;
+		margin: 0rem .5rem !important;
+		color: #fff;
+	}
+	.cid-topmenu .nav-item .submenu .dropdown-menu li a:hover {
+		color: #EB151E;
+	}
+	
+	.cid-carousel .container-slide.container {
+		min-height: 100vh;
+	}
+	.cid-carousel .full-screen .slider-fullscreen-image {
+		min-height: 100vh;
+	}
+	.cid-carousel .full-screen .carousel-item .container.container-slide {
+		min-height: 100vh;
+	}
+	
+	/** gallery */
+	#gallery-slider .flex-viewport {
+		height: 320px;
+	}
+	#gallery-slider #gallery-carousel .flex-viewport {
+		height: 70px;
+	}
+	/** post */
+	.post-page-content {
+		padding: 2rem;
+	}		
+	
+	/** footer */
+	.footer-copyright,
+	.footer-copyright .copyright-text,
+	.footer-copyright .social-links-wrap,
+	.developer-text {
+		font-size: 0.65rem;
+		height: auto;
+	}
+	
+	/** achievements */
+	#achievements h3 a {	
+		font-size: 1rem;
+	}
+	
+	/** logo and banner fixing **/
+	.cid-topmenu button.navbar-toggler {
+		top: 1.75rem;
+	}
+	.cid-topmenu .navbar {
+		/* height: 100%; */
+	}
+	.page-banner-image-mobile {  
+		height: auto;
+		position: relative;
+		z-index: 20;
+		border-top: 75px solid #000;
+	}
+	.page-banner-image-mobile img {  
+		width: 100%;
+		height: auto;
+	}
+	#social-nav {
+		top: 40%;
+	}
+	.navbar-dropdown.bg-color.transparent {
+		background: rgba(0,0,0,1);
+	}
+}
+/* ---------------------------------------------------------------------- */
+/*	Up To Medium Devices
+ /* ---------------------------------------------------------------------- */
+@media (max-width: 991px) {
+
+}
+/* ---------------------------------------------------------------------- */
+/*	Up To Medium Devices
+ /* ---------------------------------------------------------------------- */
+@media (min-width: 768px) {
+
+}
+/* ---------------------------------------------------------------------- */
+/*	Extra Small Devices Only
+ /* ---------------------------------------------------------------------- */
+@media (max-width: 767px) {
+	.show-in-mobile {
+		display: block !important;
+	}
+	.hide-in-mobile {
+		display: none !important;
+	}	
+	.image-frame img {
+		border: 0.5rem solid #666;
+		padding: 0.25rem;
+	}
+	.figure-caption {
+		font-size: 60%;
+	}
+	#banner {
+		margin-top: 0;
+	}
+	.cid-carousel .container-slide.container {
+		min-height: 100vh;
+	}
+	.cid-carousel .full-screen .slider-fullscreen-image {
+		min-height: 100vh;
+	}
+	.cid-carousel .full-screen .carousel-item .container.container-slide {
+		min-height: 100vh;
+	}
+	
+	/** menu */
+	.cid-topmenu .navbar.navbar-short.opened  {
+		height: 100vh;
+		overflow-y: auto;
+		overflow-x: hidden;
+	}
+	.cid-topmenu .dropdown .dropdown-menu .submenu .dropdown-menu  {
+		top: 0;
+		left: 30px;
+	}
+	.cid-topmenu .dropdown .dropdown-menu .submenu .dropdown-item {
+		padding: 0 !important;
+	}
+	.cid-topmenu .nav-item .submenu .dropdown-menu li a {
+		padding: 0 !important;
+		margin: 0.125rem 0 !important;
+		color: #fff;
+	}
+	.cid-topmenu .nav-item .submenu .dropdown-menu li a:hover {
+		color: #EB151E;
+	}
+	
+	/** post */
+	.post-page-content {
+		padding: 1rem;
+	}
+	article .page-content h1 {
+		font-size: 1.5rem;	
+		margin-bottom: 1rem;
+	}
+	/** footer */
+	.footer-copyright,
+	.footer-copyright .copyright-text,
+	.footer-copyright .social-links-wrap,
+	.developer-text {
+		text-align: center;
+		font-size: 0.65rem;
+		height: auto;
+		line-height: 1;
+	}
+	
+	/** achievements */
+	#achievements h3 a {	
+		font-size: 1rem;
+	}
+	
+	
+	/** logo and banner fixing **/
+	.cid-topmenu button.navbar-toggler {
+		top: 1.75rem;
+	}
+	.page-banner-image-mobile {  
+		height: auto;
+		position: relative;
+		z-index: 20;
+		border-top: 75px solid #000;
+	}
+	.page-banner-image-mobile img {  
+		width: 100%;
+		height: auto;
+	}
+	#social-nav {
+		top: 30%;
+	}
+	.navbar-dropdown.bg-color.transparent {
+		background: rgba(0,0,0,1);
+	}
+	
+	
+
+}

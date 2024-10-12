@@ -1,0 +1,45 @@
+/* OWNER */
+	Bashundhara Group
+	
+	Corporate Office
+	-----------------
+	Plot # 125/A, Block# A, 
+	Bashundhara R/A, 
+	Road No - 2 Baridhara, 
+	Dhaka-1229
+	
+	Phone: +880 2 8432008-17
+	Fax: +880 2 8432196
+	E-Mail: info@bg.com.bd
+
+/* MANAGER */
+	S.M. Rashadul Haider
+	Head of Application (IT)
+	
+	rashadul.haider@bg.com.bd  	
+	
+/* DESIGN */
+	Md. Istiaque Hossain
+	UI Visual Designer
+	
+	istiaque.hossain@bg.com.bd
+
+/* WEB TEAM */
+	A. K. M. Zahidul Islam
+	Web Developer 
+	
+	zahidulislam@bg.com.bd
+	zahidul.islam.052006@gmail.com
+	
+		
+	Tasneem Jannat Sultan
+	Management Trainee
+	
+	tasneem.sultan@bg.com.bd
+		
+
+/* SITE */
+	Second Version
+	Last update:2018/05/23
+	
+	
